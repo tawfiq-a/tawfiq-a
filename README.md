@@ -54,7 +54,6 @@ Each project emphasizes **performance, usability, and clean implementation**.
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawfiq-a&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfiq-a&theme=neon-dark" height="160"/>
 </p>
 
@@ -62,7 +61,9 @@ Each project emphasizes **performance, usability, and clean implementation**.
 
 ## 🏆 Achievements & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tawfiq-a&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Top%20Languages-Flutter-blueviolet?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projects-10-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-Intermediate-yellow?style=for-the-badge"/>
 </p>
 
 ---
