@@ -53,9 +53,7 @@ Each project emphasizes **performance, usability, and clean implementation**.
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfiq-a&theme=neon-dark" height="160"/>
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=tawfiq-a&theme=dark&hide_border=false)<br/>
 
 ---
 
