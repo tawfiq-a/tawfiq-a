@@ -55,8 +55,12 @@ Each project emphasizes **performance, usability, and clean implementation**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawfiq-a&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=tawfiq-a&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tawfiq-a&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tawfiq-a&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tawfiq-a&layout=compact&theme=tokyonight" />
 </p>
 
 ---
