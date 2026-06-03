@@ -33,11 +33,11 @@ I enjoy transforming complex requirements into **simple, elegant, and performant
 
 ## 🛠 Technical Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,fastapi,api,firebase,postman,figma,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,fastapi,firebase,postman,figma,git,github,vscode&theme=dark" />
 </p>
 
 - **Mobile Development:** Flutter, Dart, Android  
-- **Backend & Services:** Firebase, REST APIs  
+- **Backend & Services:** Firebase, REST APIs, FastAPI, Python  
 - **UI/UX Design:** Figma, Material Design  
 - **Tools & Workflow:** Git, GitHub, VS Code, Postman  
 
@@ -53,7 +53,11 @@ Each project emphasizes **performance, usability, and clean implementation**.
 ---
 
 ## 📊 GitHub Analytics
-![](https://nirzak-streak-stats.vercel.app/?user=tawfiq-a&theme=dark&hide_border=false)<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tawfiq-a&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tawfiq-a&theme=tokyonight" />
+</p>
 
 ---
 
