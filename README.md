@@ -33,7 +33,7 @@ I enjoy transforming complex requirements into **simple, elegant, and performant
 
 ## 🛠 Technical Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,firebase,postman,figma,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,fastapi,api,firebase,postman,figma,git,github,vscode&theme=dark" />
 </p>
 
 - **Mobile Development:** Flutter, Dart, Android  
