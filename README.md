@@ -77,12 +77,22 @@ Each project emphasizes **performance, usability, and clean implementation**.
 ---
 
 ## 🤝 Professional Contact
+
 <p align="center">
-  <a href="https://github.com/tawfiq-a">
-    <img src="https://img.shields.io/badge/GitHub-00FFF7?style=for-the-badge&logo=github&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/mir-tawfiq-al-sayem">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://wa.me/8801829898976">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
   <a href="mailto:mirtawfiq575@gmail.com">
     <img src="https://img.shields.io/badge/Email-B967FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+
+  <a href="https://tawfiq-is-a-dev.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
