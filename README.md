@@ -56,8 +56,10 @@ Each project emphasizes **performance, usability, and clean implementation**.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tawfiq-a&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tawfiq-a&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=tawfiq-a&theme=dark&hide_border=false" />
 </p>
+
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tawfiq-a&layout=compact&theme=tokyonight" />
