@@ -68,6 +68,10 @@ Each project emphasizes **performance, usability, and clean implementation**.
 
 ---
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
 ## 🏆 Achievements & Activity
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Languages-Flutter-blueviolet?style=for-the-badge&logo=flutter&logoColor=white"/>
