@@ -55,10 +55,11 @@ Each project emphasizes **performance, usability, and clean implementation**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tawfiq-a&show_icons=true&theme=tokyonight" /> -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=tawfiq-a&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfiq-a&theme=radial&hide_border=true" alt="Tawfiq's GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tawfiq-a/tawfiq-a/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 
 <!-- <p align="center">
