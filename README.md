@@ -15,13 +15,13 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh5bGFqcmc4M2VibG5rbmhjMzZobTg2c2NvcW1rbm02ZjJvZzdzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450px" alt="Coding GIF">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUGGAC3P4F81MTlh/giphy.gif" width="450px" alt="Coding Workspace">
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tawfiq-a&theme=react-dark&hide_border=true" alt="Activity Graph" />
